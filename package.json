@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"dev": "wrangler dev -j"
+	},
+	"dependencies": {
+		"wrangler": "^3.53.1",
+		"@cloudflare/workers-types": "^4.20240502.0"
+	}
+}

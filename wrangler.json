@@ -1,0 +1,7 @@
+{
+	"name": "rpc-no-handler",
+	"main": "src/index.ts",
+	"compatibility_date": "2024-05-07",
+	"node_compat": true,
+	"workers_dev": false
+}
